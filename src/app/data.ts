@@ -62,7 +62,7 @@ export const DATA = {
         WEBSITE: "https://www.navgurukul.org/",
         POSITION: "Sr Flutter Associate",
         LOCATION: "Remort",
-        DURATION: "Apr, 2023 - Jan @025",
+        DURATION: "Apr, 2023 - Jan 2025",
         DESCRIPTION: [
           "Assisted in the development of full-stack applications to support academic initiatives.",
           "Spearheaded a 7-member development team to successfully deliver multiple client and in-house projects",
