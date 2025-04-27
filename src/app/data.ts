@@ -17,82 +17,72 @@ export interface IProjectData {
 
 export const DATA = {
   HEADER: {
-    NAME: "Utkarsh Singhal",
-    AGE: "20",
+    NAME: "Shivansh Jasathi",
+    AGE: "21",
     PRONOUN: "he/him",
     HEADLINE:
       "Passionate about building high-performance and scalable web applications.",
     RESUME:
-      "https://drive.google.com/file/d/1rlP_GVlMjDWb1pNgw2V5QzOg8SJzdffy/view",
-    EMAIL: "mailto:singhalutkarsh26@gmail.com",
-    GITHUB: "https://github.com/Utkarsh-Singhal-26",
-    LINKEDIN: "https://www.linkedin.com/in/singhalutkarsh26",
+      "https://drive.google.com/file/d/18KgbZ4eRa9H-DWXiCTxw2GDaWxK5LqUu/view?usp=sharing",
+    EMAIL: "mailto:shivanshhasathi052004@gmail.com",
+    GITHUB: "https://github.com/Shivxnshjasathi",
+    LINKEDIN: "https://www.linkedin.com/in/shivansh-jasathi-5095a3225",
   },
 
   ABOUT_ME: {
     INTRO:
-      "Hey! I'm a full-stack developer who loves building efficient, scalable, and intuitive applications. I thrive on solving complex problems, optimizing performance, and creating seamless user experiences.",
+      "Hey! I'm a mobile developer who loves building efficient, scalable, and intuitive applications. I thrive on solving complex problems, optimizing performance, and creating seamless user experiences.",
     EXPERTISE:
-      "My expertise lies in Next.js, TypeScript, Node.js, and Cloud technologies, and I enjoy working across the stack to bring ideas to life.",
-    BLOG: "I would love publishing blogs and sharing insights on web development, best practices, and new technologies.",
+      "My expertise lies in Kotlin, Swift, Flutter, and Cloud technologies, and I enjoy working across the stack to bring ideas to life.",
+    BLOG: "I would love publishing blogs and sharing insights on software development, best practices, and new technologies.",
   },
 
   EXPERIENCE: {
-    "Aardo Solutions": {
-      WEBSITE: "https://www.aardosolutions.com/",
-      POSITION: "Software Developer",
-      LOCATION: "Remote",
-      DURATION: "Sept, 2024 - Present",
+    "PhonePe": {
+      WEBSITE: "https://www.phonepe.com/",
+      POSITION: "Product Solution Engineer",
+      LOCATION: "Bangalore",
+      DURATION: "March, 2025 - Present",
       DESCRIPTION: [
-        "Developed and maintained scalable web applications to enhance user engagement and operational efficiency.",
-        "Hosted and managed servers on AWS EC2, configured domains, and implemented SSL certificates for secure access.",
+        "Developed and maintained scalable Phonepe's insurence mobile applications to enhance user engagement and operational efficiency.",
+        "contributed to the migration from PhonePe 2.0 to the new PhonePe 3.0 UI.",
         "Collaborated with cross-functional teams to design and implement scalable solutions.",
         "Utilized modern frameworks and libraries to ensure responsive and dynamic user interfaces.",
       ],
       TECH_STACK: [
-        "TypeScript",
-        "React.js",
-        "Next.js",
-        "Tailwind CSS",
-        "ShadCN",
+        "Kotlin",
+        "Swift",
+        "LiquidUI",
         "Node.js",
-        "Express.js",
-        "MongoDB",
-        "Firebase",
-        "Contentful",
-        "AWS",
-        "GCP",
-        "Vercel",
-        "Nginx",
         "Git & Github",
       ],
     },
-    "Vivekananda Institute of Professional Studies - Technical Campus (VIPS-TC)":
+    "NavGurukul":
       {
-        WEBSITE: "https://vips.edu/",
-        POSITION: "Software Developer Intern",
-        LOCATION: "Hybrid - Delhi, India",
-        DURATION: "Nov, 2023 - Present",
+        WEBSITE: "https://www.navgurukul.org/",
+        POSITION: "Sr Flutter Associate",
+        LOCATION: "Remort",
+        DURATION: "Apr, 2023 - Jan @025",
         DESCRIPTION: [
           "Assisted in the development of full-stack applications to support academic initiatives.",
-          "Implemented cloud-based solutions using Google Cloud Platform (GCP) services.",
+          "Spearheaded a 7-member development team to successfully deliver multiple client and in-house projects",
           "Participated in code reviews and contributed to the optimization of existing codebases.",
         ],
         TECH_STACK: [
-          "React.js",
-          "Tailwind CSS",
-          "Material UI",
+          "Flutter",
+          "Kotlin",
+          "Gemini AI",
           "Firebase",
           "GCP",
           "Vercel",
           "Git & Github",
         ],
       },
-    Requestly: {
-      WEBSITE: "https://requestly.com/",
-      POSITION: "Product Engineer Intern",
+    "Qurinom Solutions": {
+      WEBSITE: "https://qurinomsolutions.com/",
+      POSITION: "Software Engineer",
       LOCATION: "Hybrid - Delhi, India",
-      DURATION: "Aug, 2024 - Oct, 2024",
+      DURATION: "Dec, 2022 - Mar, 2023",
       DESCRIPTION: [
         "Researched and analyzed various API testing platforms (Kubesense, LevoAI, Wallarm, Traceable, Safe Security, Keploy) to evaluate features, security, and integration capabilities.",
         "Worked extensively with AWS services (Lambda, Kinesis, S3, API Gateway, EC2, Route 53) to manage infrastructure, automate processes, and optimize security configurations.",
@@ -110,14 +100,16 @@ export const DATA = {
   },
 
   PROJECTS: {
-    "Skygaze India": {
-      SLUG: "skygaze-india",
-      LIVE_PREVIEW: "https://www.skygazeindia.com/",
+    "Sernity AI": {
+      SLUG: "sernity-ai",
+      LIVE_PREVIEW: "https://github.com/Shivxnshjasathi/Serenity",
       DESCRIPTION: [
+        "Serenity uses advanced AI to provide empathetic support on the basis of gita , helping youth navigate their emotional challenges and improve mental well-being.",
         "Integrated the Razorpay payment gateway to enable secure and seamless transactions",
         "Built a high-performance UI using Next.js and TypeScript, optimizing user experience and system efficiency.",
       ],
       TECH_STACK: [
+        "Flutter",
         "React.js",
         "Next.js",
         "TypeScript",
@@ -130,15 +122,16 @@ export const DATA = {
       IMAGE: SkygazeImage,
       HIDDEN: false,
     },
-    "Digital Library, VIPS-TC": {
+    "DIY SmartWatch": {
       SLUG: "digital-library",
-      LIVE_PREVIEW: "https://btech.library.vips.edu/",
+      LIVE_PREVIEW: "https://www.linkedin.com/posts/shivansh-jasathi-5095a3225_smartwatchui-cplusplus-wearabletech-activity-7188751290728857600-FQLS?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiBjRkBN2_FnPToOvulzPpjurHciX0by2c",
       DESCRIPTION: [
-        "Developed and launched a functional library website for a technical institution.",
-        "Implemented user-friendly interface to improve accessibility of library resources.",
-        "Designed responsive layout ensuring compatibility across desktop and mobile devices",
+        "Developed and launched a functional Smartwatch for Personal Uses. User can connect the watch to app from bluetooth",
+        "Designed and built a smartwatch from scratch, featuring accurate time display and menu navigation.",
+        "Engineered low-power consumption features to extend battery life by 40%, making it ideal for day-to-day usage.",
+        "Integrated all hardware components with the software to ensure the watch operates smoothly."
       ],
-      TECH_STACK: ["React.js", "Tailwind CSS", "Firebase"],
+      TECH_STACK: ["C++", "ESP32", "Ardino","Flutter"],
       IMAGE: LibraryImage,
       HIDDEN: false,
     },
@@ -161,24 +154,24 @@ export const DATA = {
       ],
       HIDDEN: true,
     },
-    "ToDo Extension with Chrome Storage API": {
+    "Apple Iphone website Clone": {
       SLUG: "todo-extension",
-      LIVE_PREVIEW: "https://todo-extension-webapp.vercel.app/",
-      GITHUB: "https://github.com/Utkarsh-Singhal-26/todo-extension",
+      LIVE_PREVIEW: "https://iphone-clone-black.vercel.app/",
+     
       DESCRIPTION: [
-        "Developed and launched a Chrome extension for task management using Chrome Storage API.",
+        "Developed and launched a clone website for Iphone 15 using Reactjs.",
         "Implemented user-friendly interface to enhance productivity and task tracking.",
         "Designed responsive layout ensuring seamless experience across different screen sizes and browsers.",
-        "Integrated message broadcasting for real-time updates and synchronization",
+        "I created a website hosted on Vercel and used Three.js to model the iPhone 15."
+        
       ],
-      NOTE: "Note: The extension is not published on the Chrome Web Store.",
+    
       TECH_STACK: [
         "TypeScript",
         "React.js",
         "Tailwind CSS",
-        "Borwser Extension",
-        "Chrome Storage API",
-        "Message Broadcasting",
+        "Three.js",
+        "Vercel"
       ],
       IMAGE: TodoImage,
       HIDDEN: false,
@@ -186,11 +179,12 @@ export const DATA = {
   },
 
   ALL_PROJECTS:
-    "https://github.com/stars/Utkarsh-Singhal-26/lists/projects-man-technologist",
+  "https://github.com/Shivxnshjasathi",
 
   SKILLS: {
-    Languages: ["JavaScript", "TypeScript", "HTML", "CSS", "Node.js"],
+    Languages: ["Kotlin","Swift","JavaScript", "TypeScript", "HTML", "CSS", "Node.js"],
     Frameworks: [
+      "Flutter",
       "React.js",
       "Next.js",
       "Astro",

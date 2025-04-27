@@ -12,21 +12,21 @@ const outfit = Outfit({
 });
 
 export const metadata: Metadata = {
-  title: "Utkarsh Singhal | Software Developer",
+  title: "Shivansh Jasathi | Software Developer",
   description:
     "Software developer specializing in Next.js, TypeScript and Node.js.",
   openGraph: {
-    title: "Utkarsh Singhal | Software Developer",
+    title: "Shivansh Jasathi | Software Developer",
     description:
       "Software developer specializing in Next.js, TypeScript, and Node.js. Experienced in building scalable, high-performance applications.",
-    url: "https://utkarsh-singhal.is-a.dev/",
+    url: "",
     type: "website",
     images: [
       {
-        url: "https://utkarsh-singhal.is-a.dev/opengraph-image.png",
+        url: "",
         width: 1200,
         height: 630,
-        alt: "Utkarsh Singhal | Software Developer",
+        alt: "Shivansh Jasathi| Software Developer",
       },
     ],
   },
@@ -34,10 +34,10 @@ export const metadata: Metadata = {
     card: "summary_large_image",
   },
   authors: [
-    { name: "Utkarsh Singhal", url: "https://utkarsh-singhal.is-a.dev/" },
+    { name: "Shivansh Jasathi", url: "" },
   ],
   keywords: [
-    "Utkarsh Singhal",
+    "Shivansh Jasathi",
     "Software Developer",
     "Full-Stack Developer",
     "React",
@@ -51,8 +51,8 @@ export const metadata: Metadata = {
     "Tailwind CSS",
     "Web Development",
   ],
-  creator: "Utkarsh Singhal",
-  publisher: "Utkarsh Singhal",
+  creator: "Shivansh Jasathi",
+  publisher: "Shivansh jasathi",
 };
 
 export default function RootLayout({
