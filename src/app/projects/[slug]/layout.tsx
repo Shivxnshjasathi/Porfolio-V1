@@ -1,3 +1,6 @@
+
+
+
 import { DATA, getProjectData } from "@/app/data";
 import { Navbar } from "@/components/sections";
 import { Metadata } from "next";
