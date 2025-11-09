@@ -18,12 +18,12 @@ export interface IProjectData {
 export const DATA = {
   HEADER: {
     NAME: "Shivansh Jasathi",
-    AGE: "21",
+    AGE: "22",
     PRONOUN: "he/him",
     HEADLINE:
-      "Passionate about building high-performance and scalable web applications.",
+      "Passionate about building high-performance and scalable Mobile and web applications.",
     RESUME:
-      "https://drive.google.com/file/d/18KgbZ4eRa9H-DWXiCTxw2GDaWxK5LqUu/view?usp=sharing",
+      "https://drive.google.com/file/d/1qEA4J8APNz8AfpePsx4AuoID-QzW34O6/view?usp=drive_link",
     EMAIL: "mailto:shivanshhasathi052004@gmail.com",
     GITHUB: "https://github.com/Shivxnshjasathi",
     LINKEDIN: "https://www.linkedin.com/in/shivansh-jasathi-5095a3225",
