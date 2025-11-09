@@ -31,7 +31,7 @@ export const DATA = {
 
   ABOUT_ME: {
     INTRO:
-      "Hey! I'm a mobile developer who loves building efficient, scalable, and intuitive applications. I thrive on solving complex problems, optimizing performance, and creating seamless user experiences.",
+      "Hey! I'm a mobile and web developer who loves building efficient, scalable, and intuitive applications. I thrive on solving complex problems, optimizing performance, and creating seamless user experiences.",
     EXPERTISE:
       "My expertise lies in Kotlin, Swift, Flutter, and Cloud technologies, and I enjoy working across the stack to bring ideas to life.",
     BLOG: "I would love publishing blogs and sharing insights on software development, best practices, and new technologies.",
@@ -40,7 +40,7 @@ export const DATA = {
   EXPERIENCE: {
     "PhonePe": {
       WEBSITE: "https://www.phonepe.com/",
-      POSITION: "Product Solution Engineer",
+      POSITION: "Product Engineer",
       LOCATION: "Bangalore",
       DURATION: "March, 2025 - Present",
       DESCRIPTION: [
@@ -52,8 +52,10 @@ export const DATA = {
       TECH_STACK: [
         "Kotlin",
         "Swift",
+        "Jetpack Compose",
+        "Swift UI",
         "LiquidUI",
-        "Node.js",
+        "SpringBoot",
         "Git & Github",
       ],
     },
@@ -185,6 +187,9 @@ export const DATA = {
     Languages: ["Kotlin","Swift","JavaScript", "TypeScript", "HTML", "CSS", "Node.js"],
     Frameworks: [
       "Flutter",
+      "React.js",
+      "Jetpack Compose",
+      "Swift UI",
       "React.js",
       "Next.js",
       "Astro",
